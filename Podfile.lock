@@ -1,0 +1,36 @@
+PODS:
+  - Action (3.4.0):
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxBlocking (4.0.0):
+    - RxSwift (~> 4.0)
+  - RxCocoa (4.0.0):
+    - RxSwift (~> 4.0)
+  - RxOptional (3.3.0):
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.0.0)
+  - RxTest (4.0.0):
+    - RxSwift (~> 4.0)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - Action
+  - RxBlocking
+  - RxOptional
+  - RxSwift
+  - RxTest
+  - SnapKit
+
+SPEC CHECKSUMS:
+  Action: a9b4a15708233c73a0beee92bb677262ccbd8a96
+  RxBlocking: 923c2c8106d80d7c2d6b276afd66ce3b10824836
+  RxCocoa: d62846ca96495d862fa4c59ea7d87e5031d7340e
+  RxOptional: e5448d3e21024489e07c31f6a262f2b50c975367
+  RxSwift: fd680d75283beb5e2559486f3c0ff852f0d35334
+  RxTest: 0041e792cede35e53e4749f378d21482af0e9d12
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: 1e5aabf158d93088f778c6a0fa5d3c164f6a085f
+
+COCOAPODS: 1.3.1
