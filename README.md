@@ -16,7 +16,7 @@ One or more interactors (aka use cases) are injected into the `Presenter`
 
 The `Presenter` lays out a contract for the `View` to implement. 
 
-The `View` does not tell the `Presenter` what to do, it relies on a concept known as `RxMVP` where `Observables` notify the `Presenter` of a change and the `Presenter` subscribes to the output and tells the `Navigator` or `View` what to do based on that output.
+The `View` does not tell the `Presenter` what to do, it relies on a concept known as `RxMVP` where `Observables` notify the `Presenter` of a change and the `Presenter` subscribes to the output and tells the `Navigator` or `View` what to do.
 
 The only methods the `View` should call on the `Presenter` are the base methods present in Presenter<T>.
 
